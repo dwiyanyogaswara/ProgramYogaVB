@@ -1,0 +1,35 @@
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.FormLogin.resources
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.Resources.resources
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.GenerateResource.cache
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.CoreCompileInputs.cache
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.exe.config
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.exe
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.pdb
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.xml
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\SD3Fungsi.dll
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\SettingLib.dll
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.CopyComplete
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.exe
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.xml
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.pdb
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.AssemblyReference.cache
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.Form1.resources
+D:\Works\Task\Task 6\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.FormCalendar.resources
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.exe.config
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.exe
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.pdb
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\ProgramYoga.xml
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\bin\Debug\SD3Fungsi.dll
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.AssemblyReference.cache
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.Form1.resources
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.FormCalendar.resources
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.FormLogin.resources
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.Resources.resources
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.GenerateResource.cache
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.CoreCompileInputs.cache
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.vbproj.CopyComplete
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.exe
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.xml
+D:\Works\Coba Program Yoga\ProgramYoga\ProgramYoga\obj\Debug\ProgramYoga.pdb

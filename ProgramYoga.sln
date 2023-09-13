@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProgramYoga", "ProgramYoga\ProgramYoga.vbproj", "{5E0121B9-EA7F-4DF4-BBC1-DA7B2A743CF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0121B9-EA7F-4DF4-BBC1-DA7B2A743CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0121B9-EA7F-4DF4-BBC1-DA7B2A743CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0121B9-EA7F-4DF4-BBC1-DA7B2A743CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0121B9-EA7F-4DF4-BBC1-DA7B2A743CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27223D15-E2F5-44C9-9E79-FA36C310327D}
+	EndGlobalSection
+EndGlobal
